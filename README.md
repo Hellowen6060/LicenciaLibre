@@ -1,4 +1,19 @@
+
+
+ ===================================================================================
+  ███╗  ███╗    [31m██████╗             ██████╗   █████╗  ███╗   ███╗ ███████╗ ██████╗[0m  
+  ══██╗ ══██╗  [31m ██╔══██╗           ██╔════╝  ██╔══██╗ ████╗ ████║ ██╔════╝ ██╔══██╗[0m 
+     ██╗   ██╗  [31m██║  ██║           ██║  ███╗ ███████║ ██╔████╔██║ █████╗   ██████╔╝[0m 
+    ██╔╝  ██╔╝  [31m██╚══██║           ██║   ██║ ██╔══██║ ██║╚██╔╝██║ ██╔══╝   ██╔══██╗[0m 
+  ███╔╝ ███╔╝   [31m██████╔╝  ███╗     ╚██████╔╝ ██║  ██║ ██║ ╚═╝ ██║ ███████╗ ██║  ██║[0m 
+  ═══╝  ═══╝    [31m╚═════╝   ╚══╝      ╚═════╝  ╚═╝  ╚═╝ ╚═╝     ╚═╝ ╚══════╝ ╚═╝  ╚═╝[0m  
+ ===================================================================================&&echo.
+
+
+__________________________________
 Aviso de Uso y Licencia Gratuita
+__________________________________
+
 Este paquete de programas se distribuye de manera gratuita, con fines exclusivamente de uso personal, educativo, profesional o privado. No está permitido vender, alquilar ni comercializar este paquete en ninguna forma.
 
 El uso de cualquier programa incluido en este pack es bajo la exclusiva responsabilidad del usuario final. Todo el software contenido es libre, original y no ha sido modificado.
